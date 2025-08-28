@@ -1,4 +1,4 @@
-Digital Skeptic AI
+###Digital Skeptic AI
 Tagline: Empowering Critical Thinking in an Age of Information Overload.
 
 Premise
@@ -45,7 +45,7 @@ A Google Gemini API Key. You can obtain one from Google AI Studio.
 2. Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/digital-skeptic-ai.git
+git clone https://github.com/brijendra04/Digital-Sckepti-AI-Hackathon.git
 cd digital-skeptic-ai
 
 Install the required Python packages:
