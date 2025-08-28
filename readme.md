@@ -1,4 +1,4 @@
-###Digital Skeptic AI
+Digital Skeptic AI
 Tagline: Empowering Critical Thinking in an Age of Information Overload.
 
 Premise
@@ -48,9 +48,11 @@ Clone the repository to your local machine:
 git clone https://github.com/brijendra04/Digital-Sckepti-AI-Hackathon.git
 cd digital-skeptic-ai
 
+
 Install the required Python packages:
 
 pip install -r requirements.txt
+
 
 (Note: You will need to create a requirements.txt file containing the libraries listed in the Tech Stack section).
 
@@ -59,10 +61,12 @@ Create a file named .env in the root of your project directory. Add your Gemini 
 
 GEMINI_API_KEY="YOUR_API_KEY_HERE"
 
+
 4. Running the Program
 Execute the main script from your terminal:
 
 python main.py
+
 
 The program will prompt you to enter the URL of the news article you wish to analyze. The final report will be printed to the console and saved as a Markdown (.md) file in the project directory.
 
@@ -90,8 +94,9 @@ The language in this article is highly persuasive and uses emotionally charged w
 3.  What do experts with opposing views say about this topic?
 
 ### Key Entities to Investigate
-* **[Person's Name]**: Investigate their professional background and any known affiliations.
-* **The XYZ Institute**: Look into the funding sources and past publications of this organization.
+* __[Person's Name]__: Investigate their professional background and any known affiliations.
+* __The XYZ Institute__: Look into the funding sources and past publications of this organization.
+
 
 ⚠️ A Note on Web Scraping
 Some websites employ measures to block automated scraping. While the script uses a standard User-Agent to minimize this, it may not work on all sites. As per the hackathon guidelines, if a specific URL is blocked, an acceptable alternative is to save the article's text to a local file and modify the script to read from that file.
